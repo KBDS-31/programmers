@@ -3,12 +3,11 @@
 
 # 진행방식
 **문제집** : [코딩 테스트 연습 lv2~3](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=2,3&languages=java) (149문제)
- - lv2~3 정답률이 높은 순서대로 문제 풀이
  - 개인 `branch`를 만들어서 코드 및 풀이 업로드
  - 못 푼 문제의 경우 `issue`에 업로드
  - Discord를 활용한 라이브 코딩
 
-# 1주차 문제
+# 1주차 문제(예시)
 |No|제목                                                                                     |lv|answer|
 |--|----------------------------------------------------------------------------------------|---|------|
 |1 |[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)        |2|       |
