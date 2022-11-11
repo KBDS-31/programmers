@@ -9,10 +9,9 @@
  - Discord를 활용한 라이브 코딩
 
 # 1주차 문제
-|No|제목                                                                                    |난이도|정답코드|
-|--|-----------------------------------------------------------------------------------------|----|-------|
-|1 |[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)        |lv2 |-------|
-|2 |[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|lv2 |-------|
-|3 |[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)          |lv2 |-------|
-|4 |[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)            |lv2 |-------|
-|5 |[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)      |lv2 |-------|
+|No|제목                                                                                     |lv|answer|
+|1 |[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)        |2|       |
+|2 |[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|2|       |
+|3 |[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)          |2|       |
+|4 |[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)            |2|       |
+|5 |[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)      |2|       |
