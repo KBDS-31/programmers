@@ -1,5 +1,5 @@
 # 알고리즘 스터디
->스터디 멤버 : 박아람, 방수영, 서현욱
+>스터디 멤버 : [박아람](https://github.com/meo8w8), [방수영](https://github.com/CindyB), [서현욱](https://github.com/hyeonuk-kor)
 
 # 진행방식
 **문제집** : [코딩 테스트 연습 lv2~3](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=2,3&languages=java) (149문제)
