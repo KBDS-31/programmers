@@ -7,7 +7,7 @@
  - 못 푼 문제의 경우 `issue`에 업로드
  - Discord를 활용한 라이브 코딩
 
-# 1주차 문제(예시)
+# 1주차 (추가 완료)
 |No|제목                                                                                     |lv|answer|
 |--|----------------------------------------------------------------------------------------|---|------|
 |1 |[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)        |2|       |
@@ -15,3 +15,12 @@
 |3 |[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)          |2|       |
 |4 |[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)            |2|       |
 |5 |[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)      |2|       |
+
+# 2주차 (추가중)
+|No|제목                                                                                     |lv|answer|
+|--|----------------------------------------------------------------------------------------|---|------|
+|1 |[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) |2|       |
+|2 ||2|       |
+|3 | |2|       |
+|4 ||2|       |
+|5 |      |2|       |
