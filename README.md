@@ -20,7 +20,7 @@
 |No|제목                                                                                     |lv|answer|
 |--|----------------------------------------------------------------------------------------|---|------|
 |1 |[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) |2|       |
-|2 ||2|       |
+|2 |[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|2|       |
 |3 | |2|       |
 |4 ||2|       |
 |5 |      |2|       |
