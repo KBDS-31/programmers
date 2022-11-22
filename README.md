@@ -23,4 +23,4 @@
 |2 |[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|2|       |
 |3 |[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) |2|       |
 |4 |[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|2|       |
-|5 |      |2|       |
+|5 |[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)      |2|       |
