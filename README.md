@@ -24,3 +24,13 @@
 |3 |[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) |2|       |
 |4 |[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|2|       |
 |5 |[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)      |2|       |
+
+
+# 3주차
+|No|제목                                                                                     |lv|answer|
+|--|----------------------------------------------------------------------------------------|---|------|
+|1 |[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) |2|       |
+|2 |[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|2|       |
+|3 |[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) |2|       |
+|4 |[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|2|       |
+|5 |[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)      |2|       |
